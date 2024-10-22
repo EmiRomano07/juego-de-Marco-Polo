@@ -1,0 +1,336 @@
+body {
+    background-image: url(mp.png);
+    background-repeat: repeat;
+    background-size: cover;
+}
+
+/*
+a {
+    font-size: 21px;
+    float: inline-end;
+    margin-top: 17%;
+    text-align: center;
+    color: rgb(105, 148, 164);
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}*/
+
+#music {
+    padding: 10px;
+    width: fit-content;
+    height: fit-content;
+    color: lightblue;
+    border: 4px solid lightblue;
+    margin: none;
+}
+
+#music:hover {
+    background-color: rgb(133, 184, 201);
+}
+
+h2 {
+    display: inline-block;
+    background-color: #20494a7e;
+    padding: 10px;
+    /* Espacio alrededor del texto */
+    color: white;
+    font-size: 40px;
+    font-family: Arial, sans-serif;
+    margin-left: 14%;
+    text-align: center;
+}
+
+mark {
+    font-size: 25px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: darkgoldenrod;
+    float: left;
+    margin-top: 0;
+    text-indent: 5px;
+    border: 4px dashed goldenrod;
+}
+
+i {
+    color: rgb(119, 90, 18);
+    text-decoration: underline;
+    font-size: 30px;
+}
+
+.botones {
+    display: flex
+}
+
+#one {
+    width: 77px;
+    height: 77px;
+    font-size: 55px;
+    margin-top: 30%;
+    margin-left: 0%;
+    background-color: rgb(145, 128, 31);
+    border: 4px dashed goldenrod;
+}
+
+#one:hover {
+    background-color: goldenrod;
+}
+
+#two {
+    width: 77px;
+    height: 77px;
+    font-size: 55px;
+    background-color: rgb(145, 128, 31);
+    margin-top: 28%;
+    margin-left: 2%;
+    border: 4px dashed goldenrod;
+}
+
+#two:hover {
+    background-color: goldenrod;
+}
+
+#three {
+    width: 77px;
+    height: 77px;
+    font-size: 55px;
+    background-color: rgb(145, 128, 31);
+    margin-top: 26%;
+    margin-left: 2%;
+    border: 4px dashed goldenrod;
+}
+
+#three:hover {
+    background-color: goldenrod;
+}
+
+#four {
+    width: 77px;
+    height: 77px;
+    font-size: 55px;
+    background-color: rgb(145, 128, 31);
+    margin-top: 24%;
+    margin-left: 2%;
+    border: 4px dashed goldenrod;
+}
+
+#four:hover {
+    background-color: goldenrod;
+}
+
+#five {
+    width: 77px;
+    height: 77px;
+    font-size: 55px;
+    background-color: rgb(145, 128, 31);
+    margin-top: 22%;
+    margin-left: 2%;
+    border: 4px dashed goldenrod;
+}
+
+#five:hover {
+    background-color: goldenrod;
+}
+
+#six {
+    width: 77px;
+    height: 77px;
+    font-size: 55px;
+    background-color: rgb(145, 128, 31);
+    margin-top: 20%;
+    margin-left: 2%;
+    border: 4px dashed goldenrod;
+}
+
+#six:hover {
+    background-color: goldenrod;
+}
+
+#seven {
+    width: 77px;
+    height: 77px;
+    font-size: 55px;
+    background-color: rgb(145, 128, 31);
+    margin-top: 18%;
+    margin-left: 2%;
+    border: 4px dashed goldenrod;
+}
+
+#seven:hover {
+    background-color: goldenrod;
+}
+
+#eight {
+    width: 77px;
+    height: 77px;
+    font-size: 55px;
+    background-color: rgb(145, 128, 31);
+    margin-top: 16%;
+    margin-left: 2%;
+    border: 4px dashed goldenrod;
+}
+
+#eight:hover {
+    background-color: goldenrod;
+}
+
+#nine {
+    width: 77px;
+    height: 77px;
+    font-size: 55px;
+    background-color: rgb(145, 128, 31);
+    margin-top: 14%;
+    margin-left: 2%;
+    border: 4px dashed goldenrod;
+}
+
+#nine:hover {
+    background-color: goldenrod;
+}
+
+#ten {
+    width: 77px;
+    height: 77px;
+    font-size: 55px;
+    background-color: rgb(145, 128, 31);
+    margin-top: 12%;
+    margin-left: 2%;
+    border: 4px dashed goldenrod;
+}
+
+#ten:hover {
+    background-color: goldenrod;
+}
+
+#eleven {
+    width: 77px;
+    height: 77px;
+    font-size: 55px;
+    background-color: rgb(145, 128, 31);
+    margin-top: 10%;
+    margin-left: 2%;
+    border: 4px dashed goldenrod;
+}
+
+#eleven:hover {
+    background-color: goldenrod;
+}
+
+#twelve {
+    width: 77px;
+    height: 77px;
+    font-size: 55px;
+    background-color: rgb(145, 128, 31);
+    margin-top: 8%;
+    margin-left: 2%;
+    border: 4px dashed goldenrod;
+}
+
+#twelve:hover {
+    background-color: goldenrod;
+}
+
+#thirteen {
+    width: 77px;
+    height: 77px;
+    font-size: 55px;
+    background-color: rgb(145, 128, 31);
+    margin-top: 6%;
+    margin-left: 2%;
+    border: 4px dashed goldenrod;
+}
+
+#thirteen:hover {
+    background-color: goldenrod;
+}
+
+#fourteen {
+    width: 77px;
+    height: 77px;
+    font-size: 55px;
+    background-color: rgb(145, 128, 31);
+    margin-top: 4%;
+    margin-left: 2%;
+    border: 4px dashed goldenrod;
+}
+
+#fourteen:hover {
+    background-color: goldenrod;
+}
+
+#fifteen {
+    width: 77px;
+    height: 77px;
+    font-size: 55px;
+    background-color: rgb(145, 128, 31);
+    margin-top: 2%;
+    margin-left: 2%;
+    border: 4px dashed goldenrod;
+}
+
+#fifteen:hover {
+    background-color: goldenrod;
+}
+
+.modal-background {
+    box-sizing: border-box;
+    width: 100%;
+    height: 100%;
+    background: rgba(0, 0, 0, 0.7);
+    position: absolute;
+    top: 0;
+    left: 0;
+    display: none;
+    opacity: 0;
+}
+
+.modal {
+    background: rgb(181, 185, 164);
+    width: auto;
+    height: auto;
+    margin: auto;
+    text-align: center;
+    border-radius: 10px;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.5);
+    display: inline-block;
+    max-width: 80%;
+}
+
+.respuesta {
+    font-size: 25px;
+    margin-bottom: 5px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.red {
+    color: red
+}
+
+i {
+    color: darkgoldenrod;
+}
+
+.green {
+    color: rgba(35, 90, 35, 0.548)
+}
+
+@keyframes aparecer {
+    0% {
+        opacity: 0;
+        display: flex
+    }
+
+    100% {
+        opacity: 1;
+        display: flex;
+    }
+}
+
+@keyframes desaparecer {
+    0% {
+        opacity: 1;
+        display: flex
+    }
+
+    100% {
+        opacity: 0;
+        display: flex;
+    }
+}
